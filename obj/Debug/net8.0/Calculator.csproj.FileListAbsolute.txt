@@ -12,3 +12,4 @@ c:\Users\Leona\Calculator\obj\Debug\net8.0\refint\Calculator.dll
 c:\Users\Leona\Calculator\obj\Debug\net8.0\Calculator.pdb
 c:\Users\Leona\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 c:\Users\Leona\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\Leona\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
